@@ -1,0 +1,11 @@
+{
+  "name": "seeding_gsheets_to_csv",
+  "version": "1.0.0",
+  "description": "Mostly a private use tool to transform a xlsx file obtained usign the Google Drive API into a series of csv files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Cerda",
+  "license": "ISC"
+}
