@@ -1,6 +1,9 @@
 /output
 
 todo.txt
+credentials.json
+token.json
+*.xlsx
 
 # Dependency directories
 node_modules/
